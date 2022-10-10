@@ -1,0 +1,24 @@
+body {
+    height: 600px;
+    width: 100%;
+    background-image: url('..//images/kitchen_prepspace_home.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+section {
+    background-color: rgba(183, 192, 214, 0.2);
+}
+
+p {
+    display: grid;
+    height: 25%;
+    width: 25%;
+}
+
+img{
+    display: grid;
+    height: 25%;
+    width: 25%;
+}
+
